@@ -2,6 +2,7 @@
 Files for my senior thesis
 
 *ABSTRACT*
+
 Mooney images, two-tone visual stimuli that provide little textural, shading, and contour information to the viewer, 
 offer the chance to explore edge cases in human and computer vision (Mooney, 1957). A study by Yilmaz demonstrates 
 that humans are more sensitive to changes in posture by figures in Mooney images than changes in lighting despite 
